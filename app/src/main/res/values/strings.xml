@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Lesson2</string>
+    <string name="sUpButton">Sign up</string>
+    <string name="tButton">Terms</string>
+    <string name="fPasswd">Forgot yuor password?</string>
+    <string name="hPasswd">Password</string>
+    <string name="loginButton">Log in</string>
+    <string name="hLogin">Login</string>
+    <string name="text_OR"> OR </string>
+    <string name="sInUs">Sign in using</string>
+    <string name="hAgain">Hello again</string>
+    <string name="facebook">Facebook</string>
+    <string name="google">Google</string>
+    <string name="welcome">Welcome!!!</string>
+</resources>
